@@ -1,2 +1,2 @@
 # Python-Learning
-Records of Python Learning
+Footprints on Python Learning
