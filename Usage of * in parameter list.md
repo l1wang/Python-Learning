@@ -1,3 +1,5 @@
+# Usage of * in parameter list
+
   First, I define a function which return the sum of two numbers. 
 
 >>> def f(a,b):	return a+b
